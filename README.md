@@ -15,6 +15,7 @@ Incluye
 | `ym_tripletes.m`                  | Calcula % de alternancia espontanea en la prueba de Y-maze.                        |
 | `funcion_intervalos_YM.m`         | Genera intervalos de interés a partir de la posición del animal en el Y-maze.      |
 | `calculo_intervalos_YM.m`         | Calcula intervalos de corrida hacia el centro y hacia la periferia del YM.         |
+| `PL_Theta_HP_PFC_YM.m`            | Calcula PhaseLocking entre neuronas mPFC - ritmo Theta HP ventral                  |
 
 ---
 
